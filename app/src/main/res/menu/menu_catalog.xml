@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.iteminventoryapp.CatalogActivity">
+
+
+
+    <item
+        android:id="@+id/delete_all_items"
+        android:title="Delete all item's"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Store Apchik</string>
+    <string name="editor_delete_item_failed">Error with product deleting</string>
+    <string name="editor_delete_item_successful">Product deleted</string>
+
+</resources>
+
+
